@@ -2,5 +2,9 @@
 A deep learning model to identify handwritten digits from 0 to 9
 
 
-https://user-images.githubusercontent.com/88351433/188333099-bd86560c-11c7-4940-81ed-495d00ecda96.mp4
+
+
+
+
+https://user-images.githubusercontent.com/88351433/188333181-a4851e83-0514-4e88-918f-c04709d6d188.mp4
 
