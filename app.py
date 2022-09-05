@@ -7,9 +7,9 @@ from tensorflow import keras
 from PIL import Image, ImageOps
 
 # import model
-model = keras.models.load_model('digitrecognizer.h5')
+model = keras.models.load_model('Model/digitrecognizer98.h5')
 canvas_result = st_canvas(
-    stroke_width=10,
+    stroke_width=20,
     stroke_color='#FFFFFF',
     background_color='#000000',
     update_streamlit=True,
